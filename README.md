@@ -1,4 +1,4 @@
-### I'm wakiyamap.
+### 🍣 I'm wakiyamap.
 
 I am developing a variety of blockchains.
 
