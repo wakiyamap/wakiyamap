@@ -22,7 +22,3 @@ monacoin
 [mainnet explorer4(esplora)](https://esplora.electrum-mona.org/)
 
 [Node explorer](https://monacoin.nodes.directory/)
-
-NEM
-
-[mainnet NIS node](https://sn1.tamami-foundation.org:7891/node/extended-info)
