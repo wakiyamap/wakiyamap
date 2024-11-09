@@ -7,6 +7,8 @@ bitcoin
 
 [mainnet explorer(blockbook)](https://mainnet-explorer.wakiyamap.dev/)
 
+[testnet4 explorer(blockbook)](https://testnet4-explorer.wakiyamap.dev/)
+
 [signet explorer(blockbook)](https://signet-explorer.wakiyamap.dev/)
 
 [signet lightning explorer](https://signet-lightning.wakiyamap.dev/)
