@@ -5,8 +5,6 @@ I am developing a variety of blockchains.
 ### 🌵 servers
 bitcoin
 
-[mainnet explorer(blockbook)](https://mainnet-explorer.wakiyamap.dev/)
-
 [testnet4 explorer(blockbook)](https://testnet4-explorer.wakiyamap.dev/)
 
 [signet explorer(blockbook)](https://signet-explorer.wakiyamap.dev/)
