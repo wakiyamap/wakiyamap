@@ -9,8 +9,6 @@ bitcoin
 
 [signet explorer(blockbook)](https://signet-explorer.wakiyamap.dev/)
 
-[signet lightning explorer](https://signet-lightning.wakiyamap.dev/)
-
 monacoin
 
 [mainnet explorer1(blockbook)](https://blockbook.monacoin.cloud/)
